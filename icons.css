@@ -1,0 +1,22 @@
+.icon {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+
+.icon-line {
+    background: url(icons/line.svg) center center no-repeat;
+}
+
+.icon-panel {
+    background: url(icons/panel.svg) center center no-repeat;
+}
+
+.icon-star {
+    background: url(icons/star.svg) center center no-repeat;
+}
+
+.icon-chevron {
+    background: url(icons/chevron.svg) center center no-repeat;
+    height: 14px;
+}
